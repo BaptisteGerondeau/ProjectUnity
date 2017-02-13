@@ -2,7 +2,7 @@
 # Model-View-Controller for Unity3D
   
 Minimalistic C# MVC framework adapted for Unity3D projects.
-
+FULL CREDITS TO EDUARDO DIAS DA COSTA
 # Features
 
 * Separate your game in Data, Features and Workflow.
